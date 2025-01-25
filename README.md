@@ -38,6 +38,28 @@ Você pode acessar [o código fonte do projeto:](https://github.com/yuriletras/j
 
 ## Abrir e rodar o projeto
 
-Após acessar a página essa será a tela de apresentação:
+Após acessar a página, essa será a tela de apresentação:
 
-<img src="Projeto-amigo-secret\challenge-amigo-secret\imgamigosecreto.PNG">
+<img src="Projeto-amigo-secret\challenge-amigo-secret\img\amigosecreto.PNG">
+
+Insira o nome de cada amigo no seguinte campo: 
+
+<img src="Projeto-amigo-secret\challenge-amigo-secret\img\amigosecreto2.PNG">
+
+Ao inserir o nome do amigo, clique em adicionar:
+
+<img src="Projeto-amigo-secret\challenge-amigo-secret\img\amigosecreto3.PNG">
+
+Em seguida, clique em "Sortear amigo" para que o sorteio seja realizado:
+
+<img src="Projeto-amigo-secret\challenge-amigo-secret\img\amigosecreto4.PNG">
+
+Assim que o sorteio for realizado o nome será apresentado em tela:
+
+<img src="Projeto-amigo-secret\challenge-amigo-secret\img\amigosecreto5.PNG">
+
+
+Para iniciar um novo sorteio, poderá apenas clicar emn "Reiniciar".
+
+
+
