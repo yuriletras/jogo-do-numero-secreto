@@ -37,3 +37,7 @@ Você pode acessar [o código fonte do projeto:](https://github.com/yuriletras/j
 
 
 ## Abrir e rodar o projeto
+
+Após acessar a página essa será a tela de apresentação:
+
+<img src="Projeto-amigo-secret\challenge-amigo-secret\imgamigosecreto.PNG">
