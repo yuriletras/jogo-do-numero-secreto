@@ -40,26 +40,24 @@ Você pode acessar [o código fonte do projeto:](https://github.com/yuriletras/j
 
 Após acessar a página, essa será a tela de apresentação:
 
-<img src="Projeto-amigo-secret\challenge-amigo-secret\img\amigosecreto.PNG">
+<img src="https://github.com/yuriletras/jogo-do-numero-secreto/blob/main/img/amigosecreto.PNG" alt="img1">
 
 Insira o nome de cada amigo no seguinte campo: 
 
-<img src="Projeto-amigo-secret\challenge-amigo-secret\img\amigosecreto2.PNG">
+<img src="https://github.com/yuriletras/jogo-do-numero-secreto/blob/main/img/amigosecreto2.PNG" alt="img2">
 
 Ao inserir o nome do amigo, clique em adicionar:
 
-<img src="Projeto-amigo-secret\challenge-amigo-secret\img\amigosecreto3.PNG">
+<img src="https://github.com/yuriletras/jogo-do-numero-secreto/blob/main/img/amigosecreto3.PNG" alt="img3">
 
-Em seguida, clique em "Sortear amigo" para que o sorteio seja realizado:
+Em seguida, clique em "Sortear amigo" para que o sorteio seja realizado. Assim que o sorteio for realizado o nome será apresentado em tela:
 
-<img src="Projeto-amigo-secret\challenge-amigo-secret\img\amigosecreto4.PNG">
+<img src="https://github.com/yuriletras/jogo-do-numero-secreto/blob/main/img/amigosecreto4.PNG" alt="img4">
 
-Assim que o sorteio for realizado o nome será apresentado em tela:
+Para iniciar um novo sorteio, poderá clicar emn "Reiniciar".
 
-<img src="Projeto-amigo-secret\challenge-amigo-secret\img\amigosecreto5.PNG">
+<img src="https://github.com/yuriletras/jogo-do-numero-secreto/blob/main/img/amigosecreto5.PNG" alt="img5">
 
-
-Para iniciar um novo sorteio, poderá apenas clicar emn "Reiniciar".
 
 
 
